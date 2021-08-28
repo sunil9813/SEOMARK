@@ -1,0 +1,28 @@
+/*----------------color-----------*/
+ background: #0A1B89;
+ background: #F7941D;
+
+/*----------------font family-----------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+
+
+/*----------------image-----------*/
+ <img src="https://img.icons8.com/dotty/80/ffffff/marketing.png"/>
+ <img src="https://img.icons8.com/ios/100/ffffff/note.png"/>
+ <img src="https://img.icons8.com/material-rounded/96/ffffff/search-database.png"/>
+ <img src="https://img.icons8.com/ios/100/ffffff/commercial.png"/>
+
+/*----------------icon-----------*/
+<i class="fa fa-heart">LIKE</i>
+<i class="fa fa-comments">COMMENT</i>
+<i class="fa fa-share-alt">SHARE</i>
+
+<i class="fa fa-map"></i>
+<i class="fa fa-phone"></i>
+<i class="fa fa-envelope"></i>
+
+
+<i class="fa fa-caret-right">
